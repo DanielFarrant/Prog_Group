@@ -14,7 +14,12 @@ body {
   font-family: "Georgia", serif;
 }
 
-h1 {
+h1, h4, h5 {
   font-family: "Calibri", sans-serif;
   font-weight: bold;
+}
+
+h4 {
+  margin-top: -20px;
+  font-style: italic;
 }
