@@ -8,18 +8,30 @@
 
 body {
     font-family: "calibri light", sans-serif;
+    color: #383838;
   }
 
 .jumbotron h1 {
   font-family: "Georgia", serif;
+  color: black;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h3, h5 {
   font-family: "Calibri", sans-serif;
-  font-weight: bold;
+  font-weight: bolder;
 }
+
 
 h4 {
   margin-top: -15px;
   font-style: italic;
+  color:#969696;
+}
+
+.row {
+  align-items:center;
+}
+
+a {
+  color: #65909A;
 }
