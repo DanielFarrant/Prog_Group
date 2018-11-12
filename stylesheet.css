@@ -35,3 +35,9 @@ h4 {
 a {
   color: #65909A;
 }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
